@@ -1,5 +1,6 @@
 # Hidden AI prompts and plans
 .prompts/
+CLAUDE.md
 
 # Environment and secrets
 .env
