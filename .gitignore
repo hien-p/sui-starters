@@ -1,0 +1,31 @@
+# Hidden AI prompts and plans
+.prompts/
+
+# Environment and secrets
+.env
+.env.*
+.mcp.json
+
+# Claude config
+.claude/
+
+# Build artifacts
+build/
+**/build/
+
+# Dependencies
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.zip
+*.tar.gz

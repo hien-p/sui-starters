@@ -1,0 +1,9 @@
+[package]
+name = "sui_starters_nft"
+edition = "2024.beta"
+version = "1.0.0"
+
+[dependencies]
+
+[addresses]
+sui_starters_nft = "0x0"

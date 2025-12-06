@@ -1,0 +1,9 @@
+[package]
+name = "sui_starters_defi"
+edition = "2024.beta"
+version = "1.0.0"
+
+[dependencies]
+
+[addresses]
+sui_starters_defi = "0x0"
